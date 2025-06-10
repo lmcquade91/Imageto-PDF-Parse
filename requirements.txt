@@ -1,4 +1,4 @@
-streamlit
-PyPDF2
+gradio
 pytesseract
-Pillow
+pillow
+pymupdf
